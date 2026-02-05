@@ -1,0 +1,4 @@
+Hello, here is an example file for Python file handling code.
+This is second line of this file.
+This is third line of this file.
+This is fourth line of this file.
